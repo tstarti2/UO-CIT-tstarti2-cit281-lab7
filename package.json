@@ -1,0 +1,12 @@
+{
+  "name": "uo-cit-tstarti2-cit281-lab7",
+  "version": "1.0.0",
+  "description": "CIT 281 Lab 7",
+  "main": "lab-07.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
